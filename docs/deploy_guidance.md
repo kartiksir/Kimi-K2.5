@@ -15,7 +15,7 @@ uv pip install -U vllm \
 
 Here is the example to serve this model on a H200 single node with TP8 via vLLM:
 ```bash
-vllm serve $MODEL_PATH -tp 8 --trust-remote-code --tool-call-parser kimi_k2 --reasoning-parser kimi_k2
+vllm serve $MODEL_PATH -tp 8 --mm-encoder-tp-mode data --trust-remote-code --tool-call-parser kimi_k2 --reasoning-parser kimi_k2
 ```
 **Key notes**
 - `--tool-call-parser kimi_k2`: Required for enabling tool calling
